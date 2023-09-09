@@ -1,0 +1,9 @@
+1. download the file from git repo and extract all the files from the downloaded zip file.
+2. open the project in the android studio and build the project.
+3. check the working in the emulator or use the usb debugging to use it through the phone.
+4. create an account using the given button in the login page(as a student or a driver) to move forward.
+
+
+
+GITHUB REPO : 
+https://github.com/gnitin19/collegeConnect2
